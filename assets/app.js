@@ -1,9 +1,9 @@
 
 function calc(){
 
-    let weight =    +userWeight.velue;
+    let weight =    +userWeight.value;
 
-    let heigt =     +userHeight.velue / 100;
+    let heigt =     +userHeight.value / 100;
     
     let bmi = weight / heigt **2;
    
